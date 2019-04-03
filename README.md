@@ -11,6 +11,8 @@
 
 演示地址：[demo9.5kcrm.net](http://demo9.5kcrm.net/)
 
+演示站帐号：18888888888   密码：123456
+
 QQ群交流群⑩群：[486745026](https:////shang.qq.com/wpa/qunwpa?idkey=f4687b809bf63f08f707aa1c56dee8dbcb9526237c429c4532222021d65bf83c)
 
 悟空CRM采用全新的前后端分离模式，本仓库代码中已集成前端vue打包后文件，可免去打包操作
