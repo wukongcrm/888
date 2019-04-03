@@ -96,7 +96,7 @@ PHP >= 5.6.0 （暂不支持PHP7及以上版本）
 ![](https://github.com/72crm/72crm/blob/master/ux/intro_img/g8.png)
 ![](https://github.com/72crm/72crm/blob/master/ux/intro_img/g9.png)
 ![](https://github.com/72crm/72crm/blob/master/ux/intro_img/g10.png)
-
+![](https://github.com/wukongcrm/888/blob/master/%E6%9B%B4%E6%96%B0%E5%8C%85.png)
 
 
 
